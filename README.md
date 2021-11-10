@@ -31,6 +31,9 @@
 ```bash
 $ npm install
 ```
+## Configuration
+
+create .env file with env.example file structure to configure enviroment vars
 
 ## Running the app
 
@@ -44,6 +47,10 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
+## Swagger 
+
+Open {{URL_HOST}}/api to show api endpoints documentation 
 
 ## Test
 
